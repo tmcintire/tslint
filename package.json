@@ -8,5 +8,9 @@
     "url": "git@github.com:tmcintire/tslint.git"
   },
   "author": "IDP Lab",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.0.2",
+    "tslint-no-unused-expression-chai": "^0.1.4"
+  }
 }
