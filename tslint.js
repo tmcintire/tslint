@@ -1,6 +1,6 @@
 module.exports = {
   defaultSeverity: "error",
-  extends: ["tslint:recommended", "prettier"],
+  extends: ["tslint:recommended", "tslint-no-unused-expression-chai"],
   rules: {
     semicolon: [false, "never"],
     "one-line": false,
