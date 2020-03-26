@@ -1,7 +1,7 @@
-module.exports = {
-  "singleQuote": true,
-  "semi": false,
-  "arrowParens": "always",
-  "bracketSpacing": true,
-  "printWidth": 150
-}
+export default {
+  singleQuote: true,
+  semi: false,
+  arrowParens: "always",
+  bracketSpacing: true,
+  printWidth: 150
+};
