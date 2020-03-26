@@ -1,8 +1,7 @@
 {
   "name": "tim-tslint",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Shared lint rules",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:tmcintire/tslint.git"
