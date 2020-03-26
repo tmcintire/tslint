@@ -1,9 +1,6 @@
 {
   "defaultSeverity": "error",
   "extends": ["tslint:recommended", "prettier.json"],
-  "linterOptions": {
-    "exclude": ["node_modules/**"]
-  },
   "rules": {
     "semicolon": [false, "never"],
     "one-line": false,
