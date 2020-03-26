@@ -1,3 +1,11 @@
-export { default as prettier } from "./prettier";
-export { default as tsconfig } from "./tsconfig";
-export { default as tslint } from "./tslint";
+var prettier = require("./prettier");
+var tsconfig = require("./tsconfig");
+var tslint = require("./tslint");
+
+console.log(tslint);
+
+module.exports = {
+  prettier,
+  tsconfig,
+  tslint
+};

@@ -1,6 +1,6 @@
-export default {
+module.exports = {
   defaultSeverity: "error",
-  extends: ["tslint:recommended", "prettier.json"],
+  extends: ["tslint:recommended", "prettier"],
   rules: {
     semicolon: [false, "never"],
     "one-line": false,

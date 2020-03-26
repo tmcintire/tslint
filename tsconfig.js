@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   compilerOptions: {
     module: "esnext",
     declaration: true,

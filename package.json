@@ -1,6 +1,6 @@
 {
   "name": "tim-tslint",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shared lint rules",
   "main": "index.js",
   "repository": {
