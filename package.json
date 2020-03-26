@@ -1,5 +1,5 @@
 {
-  "name": "@idplab/tslint",
+  "name": "tslint",
   "version": "1.0.0",
   "description": "Shared lint rules",
   "main": "tslint.json",
