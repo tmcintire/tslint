@@ -1,0 +1,12 @@
+{
+  "name": "@idplab/tslint",
+  "version": "1.0.0",
+  "description": "Shared lint rules",
+  "main": "tslint.json",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmcintire/tslint.git"
+  },
+  "author": "IDP Lab",
+  "license": "ISC"
+}
