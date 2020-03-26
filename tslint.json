@@ -1,6 +1,6 @@
 {
   "defaultSeverity": "error",
-  "extends": ["tslint:recommended", "tslint-no-unused-expression-chai"],
+  "extends": ["tslint:recommended", "prettier.json"],
   "linterOptions": {
     "exclude": ["node_modules/**"]
   },
