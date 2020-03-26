@@ -1,6 +1,6 @@
 {
   "name": "tim-tslint",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Shared lint rules",
   "repository": {
     "type": "git",
